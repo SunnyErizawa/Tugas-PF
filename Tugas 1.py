@@ -1,4 +1,4 @@
-# NAMA   : yogi Hermawan
+# NAMA   : Yogi Hermawan
 # NIM    : 11201092
 
 # no 1
